@@ -25,7 +25,7 @@ A few motivating and useful examples of how your product can be used. Spice this
 
 Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
-Your Name – [@DaveBza](https://twitter.com/DaveBza) – dave@davidbrownhk.com
+Dave Brown – [@DaveBza](https://twitter.com/DaveBza) – dave@davidbrownhk.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
